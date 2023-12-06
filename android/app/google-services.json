@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632990506531",
+    "project_id": "croud-opertion",
+    "storage_bucket": "croud-opertion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632990506531:android:133815ae5d79b35314db96",
+        "android_client_info": {
+          "package_name": "com.example.croud_opertion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3PV5QRIo4SBqtnig3lzQiCGFCpdc3L1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
